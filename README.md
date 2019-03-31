@@ -1,2 +1,2 @@
 # matlab_addons
-This is repo is a collection of submodules that contain third-party MATLAB functions that I find useful.
+This repo is a collection of third-party MATLAB functions which I find useful.
