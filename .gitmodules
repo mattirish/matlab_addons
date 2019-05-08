@@ -1,3 +1,6 @@
 [submodule "cptcmap-pkg"]
 	path = cptcmap-pkg
 	url = git@github.com:kakearney/cptcmap-pkg.git
+[submodule "Violinplot-Matlab"]
+	path = Violinplot-Matlab
+	url = git@github.com:bastibe/Violinplot-Matlab.git
