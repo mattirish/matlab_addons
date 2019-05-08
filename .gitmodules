@@ -1,0 +1,3 @@
+[submodule "cptcmap-pkg"]
+	path = cptcmap-pkg
+	url = git@github.com:kakearney/cptcmap-pkg.git
